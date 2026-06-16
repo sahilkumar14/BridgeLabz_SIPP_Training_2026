@@ -1,4 +1,4 @@
-package BridgeLabz_SIPP_Training_2026.gcr_codebase.programming_elements.level_01;
+package BridgeLabz_SIPP_Training_2026.core_java_practice.gcr_codebase.programming_elements.level_01;
 
 public class DiscountedFee {
     public static void main(String[] args) {
